@@ -31,3 +31,21 @@
  
  <article></article><input data="dot"><a href="https://tinyurl.com/y8l9vqmq">Eagles vs 49ers  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input> 
  <article></article><input data="dot"><a href="https://tinyurl.com/ya9japw6">Buccaneers vs Panthers  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input>
+ 
+ 
+  <article></article><input data="dot"><a href="https://tinyurl.com/y8om6ava">Minnesota Vikings vs Cleveland Browns  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input>  
+ <article></article><input data="dot"><a href="https://tinyurl.com/y9tjaeo6">Oakland Raiders vs Buffalo Bills  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input>  
+ <article></article><input data="dot"><a href="https://tinyurl.com/y73a5rxr">Indianapolis Colts vs Cincinnati Bengals  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input>  
+ <article></article><input data="dot"><a href="https://tinyurl.com/y8v6uqjn">Vikings vs Browns  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input> 
+ <article></article><input data="dot"><a href="https://tinyurl.com/y9ggrged">Raiders vs Bills  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input> 
+ <article></article><input data="dot"><a href="https://tinyurl.com/ybvqf2fb">Colts vs Bengals  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input> 
+ <article></article><input data="dot"><a href="https://tinyurl.com/ybdfm6ok">Chargers vs Patriots  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input> 
+ <article></article><input data="dot"><a href="https://tinyurl.com/ybpjaoca">Los Angeles Chargers vs New England Patriots  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input>  
+ <article></article><input data="dot"><a href="https://tinyurl.com/ybwoe7bc">Saints vs Bears  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input> 
+ <article></article><input data="dot"><a href="https://tinyurl.com/yak8vsfv">Falcons vs Jets  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input> 
+ <article></article><input data="dot"><a href="https://tinyurl.com/y8merfxp">49ers vs Eagles  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input> 
+ <article></article><input data="dot"><a href="https://tinyurl.com/yczffp8z">New Orleans Saints vs Chicago Bears  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input>  
+ <article></article><input data="dot"><a href="https://tinyurl.com/ydev2out">Atlanta Falcons vs New York Jets  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input>  
+ <article></article><input data="dot"><a href="https://tinyurl.com/y97m2k7c">San Francisco 49ers vs Philadelphia Eagles  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input>
+ <article></article><input data="dot"><a href="https://tinyurl.com/yco4fvaf">Carolina Panthers vs Tampa Bay Buccaneers  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input>  
+ <article></article><input data="dot"><a href="https://tinyurl.com/y9a99fwr">Panthers vs Buccaneers  </article><article>li</article><article>ve</article><article> st</article><article>r</article><article>ea</article>m</a></input> 
